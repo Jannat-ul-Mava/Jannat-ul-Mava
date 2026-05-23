@@ -1,6 +1,14 @@
 # 💫 About Me:
-<br>💻Software Engineering student passionate about building practical and creative solutions.<br>🛠️Working with Java, Python, Data Structures and exploring mobile app dev<br>🔭Actively learning, building projects, and preparing for internships in software development.<br>🚀I enjoy turning ideas into working code and improving systems step by step.<br>📫 Reach me at jannatulmava09@gmail.com
 
+💻 Software Engineering student turning caffeine into code.<br>
+🛠️ Working with Java, Data Structures & exploring web development.<br>
+🔭 Currently building projects, learning new tech, and surviving debugging sessions somehow.<br>
+🚀 I enjoy turning random ideas into working applications (and sometimes creating new bugs accidentally).<br>
+🎯 Goal: Become the kind of developer who fixes problems instead of creating 17 new ones.<br>
+🧠 Brain motto: “Just give up on your dreams and d—”  
+✨ Me after fixing one bug: “I was born to code.”<br>
+
+📫 Reach me at: **jannatulmava09@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Jannat-Ul-Mava/pfbid035UKDe3s34FosM2vwsFpDMNzNkbh8AcT66r75E1oTKD4DxvGpVU32zGkFw1K6uCZkl/?rdid=mXhq7EwlwXOUTGPy&share_url=https%253A%252F%252Fwww.facebook.com%252Fshare%252F18Dq7HRxvA%252F) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jannatulmava09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jannat-ul-mava-72289a30b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jannatulmava09@gmail.com) 
